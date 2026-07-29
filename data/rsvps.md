@@ -5,3 +5,4 @@
 | lic-diana-armijos-y-esposo | 2026-07-28 13:32:00 | Lic. Diana Armijos y esposo | 0 | 0 | 0 | Sí |  |
 | srta-katherin-gonzales | 2026-07-28 14:02:17 | Srta. Katherin Gonzales | 0 | 0 | 0 | Sí |  |
 | sr-erick-paladines | 2026-07-28 21:38:47 | Sr. Erick Paladines | 0 | 0 | 0 | Sí |  |
+| ing-lucy-sanchez | 2026-07-28 22:57:55 | Ing. Lucy Sanchez | 0 | 0 | 0 | Sí |  |
