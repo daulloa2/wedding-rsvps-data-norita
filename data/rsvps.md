@@ -13,3 +13,4 @@
 | srta-ivana-castillo | 2026-08-05 16:56:22 | Srta. Ivana Castillo | 0 | 0 | 0 | Sí |  |
 | lic-livia-armijos | 2026-08-05 18:08:13 | Lic Livia Armijos | 0 | 0 | 0 | Sí |  |
 | sr-maximino-y-esposa | 2026-08-05 19:48:51 | Sr Maximino y esposa | 0 | 0 | 0 | Sí |  |
+| lic-samuel-armijos-y-esposa | 2026-08-05 20:16:36 | Lic Samuel Armijos y esposa | 0 | 0 | 0 | Sí |  |
